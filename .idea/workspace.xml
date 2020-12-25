@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14576fbd-60c8-45ee-a38a-d7c32fe45965" name="Default Changelist" comment="">
+    <list default="true" id="14576fbd-60c8-45ee-a38a-d7c32fe45965" name="Default Changelist" comment="25.12.2020-002 begin">
       <change afterPath="$PROJECT_DIR$/../001/checkout.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../001/intervalsRefactored.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask.js" afterDir="false" />
@@ -37,6 +37,14 @@
       <change afterPath="$PROJECT_DIR$/../Carousel/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carousel.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carouselContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/routes/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/create.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/navbar.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/vcs.xml" afterDir="false" />
@@ -57,7 +65,10 @@
       <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/reportWebVitals.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IT-kamasutra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT-kamasutra/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +84,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1m1NbeMs5nfpR9bJwpDYP2ORaga" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -86,9 +98,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\MyProjects\fleshcards\views" />
+      <recent name="F:\MyProjects\fleshcards\server" />
+      <recent name="F:\MyProjects\fleshcards" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\MyProjects\fleshcards" />
+      <recent name="F:\MyProjects\fleshcards\server\views" />
+      <recent name="F:\MyProjects\fleshcards\server" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -106,7 +131,7 @@
       <workItem from="1608657211305" duration="2940000" />
       <workItem from="1608719525892" duration="2490000" />
       <workItem from="1608794756259" duration="1805000" />
-      <workItem from="1608884001679" duration="1348000" />
+      <workItem from="1608884001679" duration="12317000" />
     </task>
     <servers />
   </component>
@@ -118,11 +143,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25.12.2020-002 begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.12.2020-002 begin" />
   </component>
 </project>
