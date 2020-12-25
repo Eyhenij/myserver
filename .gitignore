@@ -8,6 +8,9 @@
 # fleshcards directory
 /fleshcards
 
+# idea
+/.idea
+
 # testing
 /coverage
 
