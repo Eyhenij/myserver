@@ -1,0 +1,5 @@
+{
+  "port": "3000",
+  "jwtSecret": "YauheniAllowedMe",
+  "mongoURI": "mongodb+srv://admin:E8jSscR4uHq8WL3@cluster0.2vimx.mongodb.net/flashcards"
+}

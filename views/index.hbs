@@ -1,1 +1,13 @@
 <h2>Index Page</h2>
+
+{{#if cards.length}}
+    <ol>
+    {{#each cards}}
+        <li>
+            <div>{{ englishWord }}</div>
+        </li>
+    {{/each}}
+    </ol>
+{{else}}
+     <p>There is no any card...</p>
+{{/if}}

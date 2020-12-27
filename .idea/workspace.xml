@@ -2,73 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14576fbd-60c8-45ee-a38a-d7c32fe45965" name="Default Changelist" comment="25.12.2020-002 begin">
-      <change afterPath="$PROJECT_DIR$/../001/checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/intervalsRefactored.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask16.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask17.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask18.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask19.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/mazeTask/mazeTask9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/arrMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/boolean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/numMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/objMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/primitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/myEducation/strMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../001/script2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carousel.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carouselContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/create.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/navbar.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/components/carousel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Carousel/carousel-task/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Carousel/carousel-task/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IT-kamasutra/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IT-kamasutra/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fleshcards.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routes/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/create.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/create.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/navbar.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/navbar.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -99,6 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -131,8 +81,18 @@
       <workItem from="1608657211305" duration="2940000" />
       <workItem from="1608719525892" duration="2490000" />
       <workItem from="1608794756259" duration="1805000" />
-      <workItem from="1608884001679" duration="12317000" />
+      <workItem from="1608884001679" duration="24936000" />
+      <workItem from="1608965343390" duration="12300000" />
+      <workItem from="1609046649983" duration="3367000" />
     </task>
+    <task id="LOCAL-00001" summary="25.12.2020-002 begin">
+      <created>1608907711918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608907711918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
